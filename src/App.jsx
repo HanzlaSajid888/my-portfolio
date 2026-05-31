@@ -585,7 +585,7 @@ const styles = `
 `;
 
 const skillData = {
-  Flutter: { icon: "🐦", info: "Cross-platform mobile apps with a single codebase. Building LuxeMart, Skillora & EDU School Management System!" },
+  Flutter: { icon: "🐦", info: "Cross-platform mobile apps with a single codebase. Building LuxeMart, Skillora & Chat App with it!" },
   Firebase: { icon: "🔥", info: "Auth, Firestore, Real-Time DB & Storage — the backbone of all real-time features." },
   Dart: { icon: "🎯", info: "The language behind Flutter. Clean OOP, async/await, and stream-based architecture." },
   "VS Code": { icon: "💻", info: "Primary code editor with Flutter & Dart extensions for a smooth dev experience." },
@@ -637,7 +637,7 @@ export default function App() {
       <div className="header">
         <span className="header-badge">ISSUE #01 &nbsp; EST. 2026</span>
         <span className="header-title">HANZLA SAJID // FOLIO</span>
-        <a href="/Hanzla_Sajid_CV.pdf" download style={{ background: "transparent", color: CYAN, border: `1px solid ${CYAN}`, fontFamily:"'Space Mono',monospace", fontSize:"11px", fontWeight:"700", padding:"4px 10px", borderRadius:"2px", letterSpacing:"1px", textDecoration:"none", cursor:"pointer" }}>📄 DOWNLOAD CV</a>
+        <a href={process.env.PUBLIC_URL + "/Hanzla_Sajid_CV.pdf"} download style={{ background: "transparent", color: CYAN, border: `1px solid ${CYAN}`, fontFamily:"'Space Mono',monospace", fontSize:"11px", fontWeight:"700", padding:"4px 10px", borderRadius:"2px", letterSpacing:"1px", textDecoration:"none", cursor:"pointer" }}>📄 DOWNLOAD CV</a>
       </div>
 
       {/* MAIN */}
@@ -650,7 +650,7 @@ export default function App() {
             <div className="speech-bubble">{displayed}</div>
             <div className="avatar-wrap">
               <img
-                src="/photo.png"
+                src={process.env.PUBLIC_URL + "/photo.png"}
                 alt="Hanzla Sajid"
                 style={{
                   width: "160px",
@@ -825,7 +825,7 @@ export default function App() {
               <a href="https://linkedin.com/in/hanzla-sajid-flutter" target="_blank" rel="noreferrer" className="contact-icon-btn" title="LinkedIn">💼</a>
             </div>
             <a
-            href="/Hanzla_Sajid_CV.pdf"
+            href={process.env.PUBLIC_URL + "/Hanzla_Sajid_CV.pdf"}
             download
             style={{
               display:"inline-block",
