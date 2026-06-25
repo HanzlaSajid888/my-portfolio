@@ -51,7 +51,7 @@ Currently studying Computer Science at University of Gujrat (2023–2027).
 | 📧 Email | ranahunzlaa.huni888@gmail.com |
 | 💼 LinkedIn | [hanzla-sajid-flutter](https://linkedin.com/in/hanzla-sajid-flutter) |
 | 🐙 GitHub | [HanzlaSajid888](https://github.com/HanzlaSajid888) |
-|🐦 X | |https://x.com/Hanzlasajid_0 |
+|🐦 X ( tweeter) | |https://x.com/Hanzlasajid_0 |
 |📘 Facebook | facebook.com/hanzlasajid0 |
 |⚡ Contra | https://contra.com/hanzla_sajid/work |
 | 💬 WhatsApp | [+92 324 8619806](https://wa.me/923248619806) |
