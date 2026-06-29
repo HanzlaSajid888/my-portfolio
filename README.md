@@ -54,6 +54,7 @@ Currently studying Computer Science at University of Gujrat (2023–2027).
 | 🐦 X (Twitter) | [Hanzlasajid_0](https://x.com/Hanzlasajid_0) |
 |📘 Facebook |[hanzlasajid0](https://www.facebook.com/hanzlasajid0) |
 |⚡ Contra | https://contra.com/hanzla_sajid/work |
+|💚 Fiverr | fiverr.com/hanzla_sajid00 |
 | 💬 WhatsApp | [+92 324 8619806](https://wa.me/923248619806) |
 ## 🌐 Portfolio
 [View My Portfolio](https://hanzlasajid888.github.io/my-portfolio/)
